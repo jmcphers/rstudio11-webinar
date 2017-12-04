@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 # set parameters
-HOST=www.rstudio.org
+HOST=www.rstudio.com
 JSON=downloads.json
 
 # clean up old file

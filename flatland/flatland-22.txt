@@ -1,4 +1,4 @@
-﻿Section 22.  How I then tried to diffuse the Theory
+﻿Chapter 22.  How I then tried to diffuse the Theory
                of Three Dimensions by other means, and of the result
 
 
@@ -219,7 +219,7 @@ Gutenberg-tm License (available with this file or online at
 http://gutenberg.net/license).
 
 
-Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+Chapter 1.  General Terms of Use and Redistributing Project Gutenberg-tm
 electronic works
 
 1.A.  By reading or using any part of this Project Gutenberg-tm
@@ -341,7 +341,7 @@ that
      prepare (or are legally required to prepare) your periodic tax
      returns.  Royalty payments should be clearly marked as such and
      sent to the Project Gutenberg Literary Archive Foundation at the
-     address specified in Section 4, "Information about donations to
+     address specified in Chapter 4, "Information about donations to
      the Project Gutenberg Literary Archive Foundation."
 
 - You provide a full refund of any money paid by a user who notifies
@@ -365,7 +365,7 @@ electronic work or group of works on different terms than are set
 forth in this agreement, you must obtain permission in writing from
 both the Project Gutenberg Literary Archive Foundation and Michael
 Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
-Foundation as set forth in Section 3 below.
+Foundation as set forth in Chapter 3 below.
 
 1.F.
 
@@ -432,7 +432,7 @@ work, (b) alteration, modification, or additions or deletions to any
 Project Gutenberg-tm work, and (c) any Defect you cause.
 
 
-Section  2.  Information about the Mission of Project Gutenberg-tm
+Chapter  2.  Information about the Mission of Project Gutenberg-tm
 
 Project Gutenberg-tm is synonymous with the free distribution of
 electronic works in formats readable by the widest variety of computers
@@ -447,11 +447,11 @@ remain freely available for generations to come.  In 2001, the Project
 Gutenberg Literary Archive Foundation was created to provide a secure
 and permanent future for Project Gutenberg-tm and future generations.
 To learn more about the Project Gutenberg Literary Archive Foundation
-and how your efforts and donations can help, see Sections 3 and 4
+and how your efforts and donations can help, see Chapters 3 and 4
 and the Foundation web page at http://www.pglaf.org.
 
 
-Section 3.  Information about the Project Gutenberg Literary Archive
+Chapter 3.  Information about the Project Gutenberg Literary Archive
 Foundation
 
 The Project Gutenberg Literary Archive Foundation is a non profit
@@ -477,7 +477,7 @@ For additional contact information:
      gbnewby@pglaf.org
 
 
-Section 4.  Information about Donations to the Project Gutenberg
+Chapter 4.  Information about Donations to the Project Gutenberg
 Literary Archive Foundation
 
 Project Gutenberg-tm depends upon and cannot survive without wide
@@ -512,7 +512,7 @@ ways including including checks, online payments and credit card
 donations.  To donate, please visit: http://pglaf.org/donate
 
 
-Section 5.  General Information About Project Gutenberg-tm electronic
+Chapter 5.  General Information About Project Gutenberg-tm electronic
 works.
 
 Professor Michael S. Hart is the originator of the Project Gutenberg-tm
