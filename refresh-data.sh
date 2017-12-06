@@ -1,5 +1,8 @@
 #!/usr/bin/env bash
 
+# This script fetches a new copy of "downloads.json", which is a JSON file
+# containing the location of RStudio product versions and download links.
+
 # set parameters
 HOST=www.rstudio.com
 JSON=downloads.json

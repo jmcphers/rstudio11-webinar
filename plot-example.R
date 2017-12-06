@@ -13,4 +13,3 @@ p
 # third layer: title
 p <- p + labs(title = "Fuel efficiency generally decreases with engine size")
 p
-
